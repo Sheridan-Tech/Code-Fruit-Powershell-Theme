@@ -1,1 +1,3 @@
 # Code-Fruit-Powershell-Theme
+
+This can be imported by PowerShell ISE under Tools > Options > Manage Themes...
